@@ -12,7 +12,7 @@
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/23fa0eac-e00b-42e6-992e-761f62421434" />
 
 # 기술 스택
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/26e55d90-c30f-4839-8b59-1911229b446c" />
+백엔드: Java, Spring Boot, Gradle, MVC 아키텍처, Swagger
 
 # 아키텍쳐
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/8b8f8018-7f5d-49dd-8b29-d67a70f60ab0" />
